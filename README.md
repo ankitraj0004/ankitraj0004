@@ -106,9 +106,7 @@ Goal: Build Intelligent AI Products
 #<img src="https://raw.githubusercontent.com/ankitraj0004/ankitraj0004/output/github-contribution-grid-snake-dark.svg"/>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/ankitraj0004/ankitraj0004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://raw.githubusercontent.com/ankitraj0004/ankitraj0004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
