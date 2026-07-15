@@ -100,7 +100,7 @@ Goal: Build Intelligent AI Products
 
 # 🐍 Contribution Snake
 
-```html
+
 
 
 <p align="center">
@@ -117,7 +117,7 @@ Goal: Build Intelligent AI Products
   </picture>
 </p>
 
----
+
 
 # ⚡ Developer Terminal
 
